@@ -21,3 +21,6 @@
 ### Was ist beim Upgrade Center zu tun?
 - Keys neu beantragen, sofern es die nicht doch irgendwo gibt
 - Team darüber informieren, dass es Verzögerungen aufgrund der falschen XML Datei gibt gibt
+
+### TODO
+Lisa vergleicht 
