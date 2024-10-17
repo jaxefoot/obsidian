@@ -6,7 +6,6 @@
       {
         "id": "8c6e7f2b10fa06b4",
         "type": "tabs",
-        "dimension": 60.26645768025078,
         "children": [
           {
             "id": "f7c7d390ce9bc618",
@@ -14,25 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phrase Problemchen.md",
+                "file": "Work/Phrase Problemchen.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "c09917bb20368370",
-        "type": "tabs",
-        "dimension": 39.73354231974922,
-        "children": [
-          {
-            "id": "597281ccd2f0e51e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -101,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Phrase Problemchen.md",
+                "file": "Work/Phrase Problemchen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Phrase Problemchen.md",
+                "file": "Work/Phrase Problemchen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Phrase Problemchen.md"
+                "file": "Work/Phrase Problemchen.md"
               }
             }
           },
@@ -173,7 +157,7 @@
   },
   "active": "f7c7d390ce9bc618",
   "lastOpenFiles": [
-    "Phrase Problemchen.md",
+    "Work/Phrase Problemchen.md",
     "Projects",
     "Work/asdf.md",
     "Work",
