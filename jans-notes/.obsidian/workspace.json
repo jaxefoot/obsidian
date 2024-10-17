@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Phrase Problemchen {{date}}.md",
+                "file": "Work/Phrase Problemchen.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Phrase Problemchen {{date}}.md",
+                "file": "Work/Phrase Problemchen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Phrase Problemchen {{date}}.md",
+                "file": "Work/Phrase Problemchen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Phrase Problemchen {{date}}.md"
+                "file": "Work/Phrase Problemchen.md"
               }
             }
           },
@@ -157,7 +157,7 @@
   },
   "active": "f7c7d390ce9bc618",
   "lastOpenFiles": [
-    "Work/Phrase Problemchen {{date}}.md",
+    "Work/Phrase Problemchen.md",
     "Projects",
     "Work/asdf.md",
     "Work",
