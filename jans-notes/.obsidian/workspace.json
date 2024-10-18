@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8c6e7f2b10fa06b4",
+        "id": "cc08424837cc15eb",
         "type": "tabs",
         "children": [
           {
-            "id": "f7c7d390ce9bc618",
+            "id": "b12edd29be115920",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/Phrase Problemchen.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Phrase Problemchen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Phrase Problemchen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Work/Phrase Problemchen.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,7 +147,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f7c7d390ce9bc618",
+  "active": "b12edd29be115920",
   "lastOpenFiles": [
     "Work/Phrase Problemchen.md",
     "Projects",
