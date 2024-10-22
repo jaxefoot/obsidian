@@ -1,0 +1,1 @@
+A set of technologies that meets an organization's end-to-end data needs.
