@@ -23,8 +23,7 @@
 - Team darüber informieren, dass es Verzögerungen aufgrund der falschen XML Datei gibt gibt
 
 ### TODO
-Lisa vergleicht Ausgangstexte PRL-264 und PRL-279 und nimmt evtl. Kontakt zur Agentur auf
-Jan macht Cleanup bei Insights
-
-Export aus Phrase vom Upgrade-Center (Jan)
-Info an Jan-Paul Langenfurth, dass das länger dauert, weil falsche Keys beauftragt wurden (Lisa)
+- [x] Lisa vergleicht Ausgangstexte PRL-264 und PRL-279 und nimmt evtl. Kontakt zur Agentur auf
+- [x] Jan macht Cleanup bei Insights
+- [x] Export aus Phrase vom Upgrade Center (Jan)
+- [ ] Info an Jan-Paul Langenfurth, dass das länger dauert, weil falsche Keys beauftragt wurden (Lisa)

@@ -3,4 +3,5 @@
 ## Step 2: Pre processing
 ## Step 3: Analytics Layer
 
-Are there a
+TODO:
+Define KPIs
