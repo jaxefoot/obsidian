@@ -1,6 +1,6 @@
 __Get everything in place so that Lukas can enable us
-- [ ] Apply Terraform to create Database Stream
-- [ ] Apply Terraform of Data Lake Sync Service (enable-flag false)
+- [x] Apply Terraform to create Database Stream
+- [x] Apply Terraform of Data Lake Sync Service (enable-flag false)
 - [ ] Deploy Code of Data Lake Sync Service (review?)
 
 __Data Platform Team
