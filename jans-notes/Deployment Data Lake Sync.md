@@ -11,3 +11,6 @@ __Deploy code__
 - [ ] Apply Terraform of Data Lake Sync Service (enable-flag false) **in parallel** to keep the gap as small as possible
 
 
+__Further Steps
+- [ ] Set up PagerDuty
+- [ ] Terraform Documentation?
