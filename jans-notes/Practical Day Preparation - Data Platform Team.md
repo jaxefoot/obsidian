@@ -17,3 +17,4 @@ How long at Trusted Shops?
 # 1 - 1 Sessions
 What do you like about the current way of working setup?
 What are your expectations for my role?
+What is a topic that you would really like to work on/ see improved?
