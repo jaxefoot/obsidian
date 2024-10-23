@@ -6,4 +6,4 @@ Get everything in place so that Lukas can enable us
 - [ ] Wait for Lukas to add the newly created role to their allow-list
 
 - [ ] Deploy Code Changes of API Lambda (removes sending to datalake)
-- [ ] Deploy 
+- [ ] Apply Data Lake Sync Service with 
