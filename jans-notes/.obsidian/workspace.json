@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Platform.md",
+                "file": "Practical Day Preparation - Data Platform Team.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Platform"
+              "title": "Practical Day Preparation - Data Platform Team"
             }
           }
         ],
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Platform.md",
+                "file": "Practical Day Preparation - Data Platform Team.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Data Platform"
+              "title": "Backlinks for Practical Day Preparation - Data Platform Team"
             }
           },
           {
@@ -155,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Platform.md",
+                "file": "Practical Day Preparation - Data Platform Team.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Data Platform"
+              "title": "Outgoing links from Practical Day Preparation - Data Platform Team"
             }
           },
           {
@@ -182,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Platform.md"
+                "file": "Practical Day Preparation - Data Platform Team.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Data Platform"
+              "title": "Outline of Practical Day Preparation - Data Platform Team"
             }
           },
           {
@@ -219,7 +219,7 @@
   "active": "7b2a66707c030e84",
   "lastOpenFiles": [
     "Data Platform/Data Platform.md",
-    "Data Platform.md",
+    "Practical Day Preparation - Data Platform Team.md",
     "Data Platform/Data Platform Community Management.md",
     "Data Platform/Data Platform Current State.md",
     "Untitled.canvas",
