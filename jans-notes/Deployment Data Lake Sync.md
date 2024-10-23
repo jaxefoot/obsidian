@@ -6,4 +6,4 @@ Get everything in place so that Lukas can enable us
 - [ ] Wait for Lukas to add the newly created role to their allow-list
 
 - [ ] Deploy Code Changes of API Lambda (removes sending to datalake)
-- [ ] Apply Terraform of Data Lake Sync Service (enable-flag false)
+- [ ] Apply Terraform of Data Lake Sync Service (enable-flag false) in parallel to keep the gap as small as possible
