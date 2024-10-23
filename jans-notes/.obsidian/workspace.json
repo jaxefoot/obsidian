@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deployment Data Lake Sync.md",
+                "file": "Production Deployment Data Lake Sync.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deployment Data Lake Sync"
+              "title": "Production Deployment Data Lake Sync"
             }
           }
         ],
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deployment Data Lake Sync.md",
+                "file": "Production Deployment Data Lake Sync.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Deployment Data Lake Sync"
+              "title": "Backlinks for Production Deployment Data Lake Sync"
             }
           },
           {
@@ -155,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deployment Data Lake Sync.md",
+                "file": "Production Deployment Data Lake Sync.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Deployment Data Lake Sync"
+              "title": "Outgoing links from Production Deployment Data Lake Sync"
             }
           },
           {
@@ -182,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deployment Data Lake Sync.md"
+                "file": "Production Deployment Data Lake Sync.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Deployment Data Lake Sync"
+              "title": "Outline of Production Deployment Data Lake Sync"
             }
           },
           {
@@ -219,7 +219,7 @@
   "active": "bab7f84828561d54",
   "lastOpenFiles": [
     "Data Platform/Data Platform Community Management.md",
-    "Deployment Data Lake Sync.md",
+    "Production Deployment Data Lake Sync.md",
     "Data Platform/Data Platform.md",
     "Review Insights/Phrase Problemchen.md",
     "Untitled.canvas",
