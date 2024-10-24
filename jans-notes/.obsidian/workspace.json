@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Platform/Data Platform Current State.md",
+                "file": "Work/Data Platform/Data Platform Current State.md",
                 "mode": "source",
                 "source": false
               },
@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Work/Todo/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Untitled"
             }
           }
         ],
@@ -196,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Work/Todo/Untitled.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -244,23 +244,27 @@
   },
   "active": "1516c38a2dbb03c6",
   "lastOpenFiles": [
-    "Templates/Untitled.md",
+    "Work/Home.md",
+    "Work/Todo/Untitled.md",
     "Templates/Task Stream.md",
-    "Review Insights/Phrase Problemchen.md",
-    "Data Platform/Practical Day Preparation - Data Platform Team.md",
-    "Data Platform/Data Platform Current State.md",
-    "Data Platform/Data Platform Community Management.md",
-    "Data Platform/Data Platform.md",
-    "Home.md",
+    "Work",
+    "Privat",
+    "Work/Todo",
+    "Templates/Untitled.md",
+    "Work/Review Insights/Phrase Problemchen.md",
     "Production Deployment of Data Lake Sync.md",
+    "Work/Data Platform/Practical Day Preparation - Data Platform Team.md",
+    "Work/Data Platform/Data Platform Current State.md",
+    "Work/Data Platform/Data Platform Community Management.md",
+    "Work/Data Platform/Data Platform.md",
     "Untitled.md",
     "2024-10-24.md",
     "Templates",
     "Data Platform/Onboarding.md",
     "Untitled.canvas",
-    "Data Platform",
+    "Work/Data Platform",
     "Work/asdf.md",
-    "Review Insights",
+    "Work/Review Insights",
     "Welcome.md"
   ]
 }
