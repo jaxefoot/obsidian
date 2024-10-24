@@ -9,7 +9,6 @@
   "enableExperimentalHash": false,
   "fileHashMap": {
     "Templates/Task Stream.md": "e14b9fe1270b5474ce1a3051873bbf459878c24caca50499ade537775bc22cb9",
-    "Production Deployment of Data Lake Sync.md": "e942d0a536f5f0d1582afab6d151309a44ba20d5851910bb41717394cce025fa",
     "Work/Data Platform/Data Platform Current State.md": "bcf8c55b6631ef4ba474bd22aebd30fa4691eb076911006cb8a68de5731024b7",
     "Work/Data Platform/Data Platform.md": "b0316bb5e07869bec33fcdca575fe60cc0b5bb8913ce0ead7eec70083bd3b273",
     "Work/Data Platform/Data Platform Community Management.md": "225adbd31573787f9b51b4c8131c06691c2c8382a5f86a8061ce76f71930e02a",
@@ -17,6 +16,8 @@
     "Work/Review Insights/Phrase Problemchen.md": "c18b12834880fb7f27d55ace5ebb986e3bd4d5e907c709140858a324ffdad6d0",
     "Work/Home.md": "445e53eebcc9a82f3fb603b2c9200bdfd1b8cd3b4952f3afcb7c641c4baf14f9",
     "Work/Todo/Test.md": "47893a99c24d761388bf0bf037fd5d46ad685ffc6395cc0f9f480e9a46c5de2c",
-    "Privat/Spanisch Lernen.md": "cdc6486bedf7ab6e18814e790318fdca632a2e0c47cdede48259aaaef4beb6bb"
+    "Privat/Spanisch Lernen.md": "cdc6486bedf7ab6e18814e790318fdca632a2e0c47cdede48259aaaef4beb6bb",
+    "Nachricht an Phillip.md": "d3f15bc9bf78bf2e3ed6ec382c2785837fe438c77e1ce8524390628c2b91bdde",
+    "Work/Review Insights/Production Deployment of Data Lake Sync.md": "dbdec0e9454ac2e4ad7f8a9eee11ecc9bc20651696a656adc866cf140a95699f"
   }
 }

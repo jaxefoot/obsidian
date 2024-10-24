@@ -1,6 +1,6 @@
 ---
 created: 2024-10-23T11:34
-updated: 2024-10-24T14:08
+updated: 2024-10-24T16:58
 ---
 __Get everything in place so that Lukas can enable us
 - [x] Apply Terraform to create Database Stream
@@ -18,3 +18,9 @@ __Deploy code__
 __Further Steps
 - [ ] Set up PagerDuty
 - [ ] Terraform Documentation?
+
+# Nachricht an Phillip
+
+Hallo Phillip,
+ich bin jetzt soweit, dass ich alles auf Production deployed habe.
+Der 
