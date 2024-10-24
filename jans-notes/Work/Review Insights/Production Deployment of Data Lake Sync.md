@@ -1,8 +1,10 @@
 ---
 created: 2024-10-23T11:34
-updated: 2024-10-24T17:02
+updated: 2024-10-24T17:07
 ---
-__Get everything in place so that Lukas can enable us
+
+
+__Get everything in place so that Lukas can enable us (2024-10-23)
 - [x] Apply Terraform to create Database Stream
 - [x] Apply Terraform of Data Lake Sync Service (enable-flag false)
 - [x] Deploy Code of Data Lake Sync Service (review?)
@@ -13,7 +15,7 @@ __Data Platform Team
 __Deploy code__
 - [ ] Deploy Code Changes of API Lambda (removes sending to datalake)
 - [ ] Apply Terraform of Data Lake Sync Service (enable-flag true) **in parallel** to keep the gap as small as possible
-- [ ] __Immediately__: Quick test, if 
+- [ ] __Immediately__: Quick test, if goal sync also works in production
 - [ ] __Then__: Apply removal of permissions for old Lambda
 
 
@@ -21,7 +23,7 @@ __Further Steps
 - [ ] Set up PagerDuty
 - [ ] Terraform Documentation?
 
-# Nachricht an Phillip
+# Nachricht an Phillip 2024-10-24
 
 Hallo Phillip,
 es hat sich alles etwas verzögert, weil noch ein Frontend-Thema dazwischen gekommen ist.
