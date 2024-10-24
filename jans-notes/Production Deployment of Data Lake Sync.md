@@ -4,7 +4,7 @@ __Get everything in place so that Lukas can enable us
 - [x] Deploy Code of Data Lake Sync Service (review?)
 
 __Data Platform Team
-- [ ] Wait for Data Platform Team to add the newly created role to their allow-list
+- [x] Wait for Data Platform Team to add the newly created role to their allow-list
 
 __Deploy code__
 - [ ] Deploy Code Changes of API Lambda (removes sending to datalake)

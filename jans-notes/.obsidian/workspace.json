@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Practical Day Preparation - Data Platform Team.md",
+                "file": "Production Deployment of Data Lake Sync.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Practical Day Preparation - Data Platform Team"
+              "title": "Production Deployment of Data Lake Sync"
             }
           }
         ],
@@ -182,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Practical Day Preparation - Data Platform Team.md"
+                "file": "Production Deployment of Data Lake Sync.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Practical Day Preparation - Data Platform Team"
+              "title": "Outline of Production Deployment of Data Lake Sync"
             }
           },
           {
@@ -218,13 +218,13 @@
   },
   "active": "7b2a66707c030e84",
   "lastOpenFiles": [
+    "Data Platform/Practical Day Preparation - Data Platform Team.md",
+    "Production Deployment of Data Lake Sync.md",
+    "Review Insights/Phrase Problemchen.md",
     "Data Platform/Data Platform.md",
-    "Practical Day Preparation - Data Platform Team.md",
     "Data Platform/Data Platform Community Management.md",
     "Data Platform/Data Platform Current State.md",
     "Untitled.canvas",
-    "Review Insights/Phrase Problemchen.md",
-    "Production Deployment of Data Lake Sync.md",
     "Data Platform",
     "Work/asdf.md",
     "Review Insights",
