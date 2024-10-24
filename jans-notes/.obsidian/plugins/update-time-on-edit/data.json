@@ -7,5 +7,13 @@
   "ignoreGlobalFolder": [],
   "ignoreCreatedFolder": [],
   "enableExperimentalHash": false,
-  "fileHashMap": {}
+  "fileHashMap": {
+    "Templates/Task Stream.md": "f054ddb16d542800d50df004170cf46517822129b485b9ddd2bdfc1566a850be",
+    "Production Deployment of Data Lake Sync.md": "e942d0a536f5f0d1582afab6d151309a44ba20d5851910bb41717394cce025fa",
+    "Review Insights/Phrase Problemchen.md": "c18b12834880fb7f27d55ace5ebb986e3bd4d5e907c709140858a324ffdad6d0",
+    "Data Platform/Data Platform.md": "b0316bb5e07869bec33fcdca575fe60cc0b5bb8913ce0ead7eec70083bd3b273",
+    "Data Platform/Data Platform Community Management.md": "928e02e643c665a335aa5d5cd0d2799acc1d8597e3cdb13161d2bd17682015fb",
+    "Data Platform/Data Platform Current State.md": "bcf8c55b6631ef4ba474bd22aebd30fa4691eb076911006cb8a68de5731024b7",
+    "Data Platform/Practical Day Preparation - Data Platform Team.md": "f39d9f5a87e9bc77f75b37db91d192ff7fe084d496710b22b5d98209969d9fb0"
+  }
 }

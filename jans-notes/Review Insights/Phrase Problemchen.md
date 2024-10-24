@@ -1,3 +1,7 @@
+---
+created: 2024-10-17T09:42
+updated: 2024-10-24T14:08
+---
 ### Agenda:
 
 #### Was ist passiert?

@@ -1,3 +1,7 @@
+---
+created: 2024-10-23T11:34
+updated: 2024-10-24T14:08
+---
 __Get everything in place so that Lukas can enable us
 - [x] Apply Terraform to create Database Stream
 - [x] Apply Terraform of Data Lake Sync Service (enable-flag false)

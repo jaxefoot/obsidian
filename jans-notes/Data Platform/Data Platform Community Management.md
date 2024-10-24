@@ -1,3 +1,7 @@
+---
+created: 2024-10-22T14:50
+updated: 2024-10-24T14:09
+---
 [[Data Platform/Data Platform]]
 Who are the stakeholders?
 How can I get feedback regularly?
