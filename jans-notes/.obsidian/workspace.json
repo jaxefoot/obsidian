@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Home.md",
+                "file": "Privat/Spanisch Lernen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Spanisch Lernen"
             }
           }
         ],
@@ -196,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Home.md"
+                "file": "Privat/Spanisch Lernen.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of Spanisch Lernen"
             }
           },
           {
@@ -244,8 +244,9 @@
   },
   "active": "1516c38a2dbb03c6",
   "lastOpenFiles": [
-    "Production Deployment of Data Lake Sync.md",
     "Work/Home.md",
+    "Privat/Spanisch Lernen.md",
+    "Production Deployment of Data Lake Sync.md",
     "Work/Todo/Test.md",
     "Templates/Task Stream.md",
     "Work",
