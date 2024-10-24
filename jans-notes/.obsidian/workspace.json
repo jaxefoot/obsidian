@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Todo/Untitled.md",
+                "file": "Work/Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Home"
             }
           }
         ],
@@ -196,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Todo/Untitled.md"
+                "file": "Work/Home.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Home"
             }
           },
           {
@@ -244,15 +244,15 @@
   },
   "active": "1516c38a2dbb03c6",
   "lastOpenFiles": [
+    "Production Deployment of Data Lake Sync.md",
     "Work/Home.md",
-    "Work/Todo/Untitled.md",
+    "Work/Todo/Test.md",
     "Templates/Task Stream.md",
     "Work",
     "Privat",
     "Work/Todo",
     "Templates/Untitled.md",
     "Work/Review Insights/Phrase Problemchen.md",
-    "Production Deployment of Data Lake Sync.md",
     "Work/Data Platform/Practical Day Preparation - Data Platform Team.md",
     "Work/Data Platform/Data Platform Current State.md",
     "Work/Data Platform/Data Platform Community Management.md",
